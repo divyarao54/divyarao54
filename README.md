@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning coding
 - 🌱 I’m currently learning Java, OOP, Datastructures and Algorithms
 - 💞️ I’m looking to collaborate on academic projects only at the moment
-- 📫 How to reach me 
+- 📫 How to reach me:
 - LinkedIn : www.linkedin.com/in/divyarao54
 
 <!---
