@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @divyarao54
 - 👀 I’m interested in learning coding
-- 🌱 I’m currently learning Java, OOP, Datastructures and Algorithms
+- 🌱 I’m currently learning Java, Python, C/C++, OOP, Datastructures and Algorithms
 - 💞️ I’m looking to collaborate on academic projects only at the moment
 - 📫 How to reach me:
 
